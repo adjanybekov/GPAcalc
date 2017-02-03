@@ -1,0 +1,31 @@
+What is a GPA calculator?
+
+
+
+
+List of new stuff I learn:
+
+
+DIALOG FRAGMENT:
+dialog window that sugget s to insert new info or press button.
+It is recommended to implement it in another class.
+But I am getting an error fo that some how.
+
+
+
+I just got an error and resolved it n=by trial and error. 
+And I want to trecord this feelings etc.
+And I alnmost have no idea what happened in between.
+As far as I understood, I was using a wrong library. insted of app, I needed to use support.v4.app.
+
+
+Ok Now 20:06 after making a little bit of reseach, by looking at the images since I don't really know the keyword, I found the needed functionality and I want to go on with that. It is called NumberPicker.
+NumberPicker is a widget that enables the user to select a number from a predefined range.
+
+
+Ok Now I realized another rule of this game. 
+It is like: Create equals search well enough and put together.
+
+Now is 17:40. Ankara, Turkey.
+I am about to make another effort to reunderstand the working flow of the databses.
+So let me do it.

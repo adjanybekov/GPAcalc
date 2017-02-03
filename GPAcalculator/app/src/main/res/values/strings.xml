@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPAcalculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonName">AddCourse</string>
+    <string name="dialogTitle">CourseInfo</string>
+    <string name="hintText">Course Name</string>
+</resources>
