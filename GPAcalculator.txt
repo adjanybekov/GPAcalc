@@ -26,6 +26,6 @@ NumberPicker is a widget that enables the user to select a number from a predefi
 Ok Now I realized another rule of this game. 
 It is like: Create equals search well enough and put together.
 
-Now is 17:40. Ankara, Turkey.
+Now it is 17:40 03.02.2017, Ankara, Turkey.
 I am about to make another effort to reunderstand the working flow of the databses.
 So let me do it.
